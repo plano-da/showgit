@@ -1,0 +1,20 @@
+{"links": [
+    {"source": 0, "target": 1,"relation":"married", "time":"1990"},
+    {"source": 0, "target": 2,"relation":"followed to participate in the Third Front","time":"1974"},
+    {"source": 3, "target": 0,"relation":"donated money to","time":"1996"},
+    {"source": 4, "target": 0,"relation":"donated money to","time":"1996"},
+    {"source": 0, "target": 5,"relation":"joined","time":"1998"},
+    {"source": 0, "target": 6,"relation":"established","time":"2001"},
+    {"source": 0, "target": 7,"relation":"became a delegate","time":"2017"},
+    {"source": 0, "target": 8,"relation":"founded","time":"2008"}
+],
+"nodes": [{ "name": "Zhang Guimei"},
+    { "name": "Dong Yuhan"},
+    {" name": "Zhang's sister"},
+    { "name": "Chinese People's Political Consultative Conference"},
+    { "name": "the Huaping Women's Federation"},
+    { "name": "Communist Party of China"},
+    { "name": "Huaping Children's Home"},
+    { "name": "National Congress of the Communist Party of China"},
+    { "name": "the Huaping High School"}],
+"#nodes": 9, "#links": 8}

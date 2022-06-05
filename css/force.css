@@ -1,0 +1,36 @@
+.nodes g {
+    cursor: move;
+}
+
+.link-text text {
+    font-size: 14px;
+    fill: #000;
+    fill-opacity: 0;
+}
+.nodes text {
+    font-weight: 400;
+}
+.links {
+    stroke: #fff;
+}
+.links line {
+    stroke: #ddd;
+}
+
+.nodes g {
+    cursor: move;
+}
+.link-text text {
+    font-size: 14px;
+    fill: #000;
+    fill-opacity: 0;
+}
+.nodes text {
+    font-weight: 400;
+}
+.links {
+    stroke: #fff;
+}
+.links line {
+    stroke: #ddd;
+}
